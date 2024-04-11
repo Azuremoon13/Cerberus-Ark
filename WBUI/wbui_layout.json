@@ -4,7 +4,7 @@
 		  "OpenButton": 5,
 		  "HideIcon": true,
 		  "HideIconAfter": 60,
-		  "IconURL": "https://raw.githubusercontent.com/Azuremoon13/Cerberus-Ark/WBUI/CerberusLogo.png",
+		  "IconURL": "https://raw.githubusercontent.com/Azuremoon13/Cerberus-Ark/main/WBUI/CerberusLogo.png",
 		  "DisableIconText": false,
 		  "IconPosition": 0,
 		  "IconTextColor": 0,
@@ -19,7 +19,7 @@
 			"buttontext": "<RichColor Color=\"1,0,0,1\">DTD</>",
 			"title1": "Welcome to DTD!",
 			"text1": "Hope you enjoy your stay on this ark protected by Cerberus",
-			"imageurl": "https://raw.githubusercontent.com/Azuremoon13/Cerberus-Ark/WBUI/CerberusLogo.png"
+			"imageurl": "https://raw.githubusercontent.com/Azuremoon13/Cerberus-Ark/main/WBUI/CerberusLogo.png"
 		  }
 		}
 	  ],
